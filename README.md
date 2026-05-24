@@ -4,7 +4,7 @@ CUNY Hunter College Summer 2026 official course repository.
 ## Questions
 Common issues you may face and a quick guide to resolution! 
 
-### Where are the lecture slides link?
+### Where are the lecture slide links?
 Go to the appropriate week and open the readFirst.md file. It will contain a link to canva slides. 
 
 ### How do I safely get copies of updates on this repo into my local repo?
