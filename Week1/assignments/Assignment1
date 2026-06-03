@@ -1,0 +1,55 @@
+# Intro to C++ — Student Introduction Survey
+
+*Welcome! Please take a few minutes to fill this out. Your responses help your instructor get to know you and tailor the course to your needs.*
+
+---
+
+## Section 1: About You
+
+1. What is your full name: John Oliva
+2. What is your major/Minor (or intended major): Computer Science
+3. Favorite snack: Mango chunnks
+4. Hobby/Favorite Pass time: Videogames
+
+---
+
+## Section 2: Programming Experience
+
+5. Have you written code before in any language: yes
+6. If yes, which languages have you used? *(e.g., Python, Java, Scratch, etc.)*: python, c++
+7. How would you describe your overall programming experience so far?:
+   - [ ] No experience at all
+   - [x] A little (one course or self-taught basics)
+   - [ ] Some (a few projects or courses)
+   - [ ] Quite a bit (multiple languages or projects)
+8. Have you written any C++ code before: yes
+9. Are you retaking this course or is this your first time: yes
+10. Do you enjoy coding? Do you enjoy CS so far? Why or why not: yes i do enjoy it
+
+---
+
+## Section 3: Comfort with CS Concepts
+
+Rate your comfort level with each of the following *(1 = Never heard of it, 5 = Very comfortable)*:
+
+| Variables & data types: 3
+| Loops (for, while): 3
+| Conditionals (if/else): 4
+| Functions / methods: 3
+| Arrays / lists: 2
+| Memory & pointers: 2 
+| Object-oriented programming: 2
+
+---
+
+## Section 4: Goals & Expectations
+
+10. What do you hope to get out of this course: I better understanding of c++ and get to code better
+11. Is there anything specific about C++ or programming you're excited to learn: project-oriented programming
+12. What are you most nervous or uncertain about going into this course: the learning curve
+13. How do you prefer to learn when something is difficult? *(e.g., watching videos, reading, asking questions, working with others, etc.)*: I prefer to learn while working on it.... meaning I need to be under pressure to work better
+14. Is there anything else you'd like your instructor to know about you: I'm willing to learn as much as possible, i just need a little push sometimes to interact more in class.
+
+---
+
+*Thank you for filling this out! I look forward to getting to know you.*
