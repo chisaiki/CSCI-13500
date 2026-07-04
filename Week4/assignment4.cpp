@@ -28,7 +28,7 @@ void isAnagram(std::string officer_name, std::string spy_name){
     }
  
     int tally[26] = {0}; // a-z
- 
+    //ASCII - values a= 97, b=98
     for (char c : officer_name) {
         tally[c - 'a']++; //add 1 to tally every letter inside officer
     }
