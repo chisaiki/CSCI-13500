@@ -161,15 +161,15 @@ void MatrixMultiplication(const int arr_left[][3], const int arr_right[][3],
 int main(){
     // Samples
     int demo_matrix_a[3][3] = {
-        {1,2,3},
-        {4,5,6},
-        {7,8,9},
+        {1,8,9},
+        {3,5,3},
+        {1,4,3},
     };
 
     int demo_matrix_b[3][3] = {
-        {12,65,82},
-        {83,2,8},
-        {10,96,67}
+        {99,33,22},
+        {12,4,76},
+        {12,3,43}
     };
 
     // Get matrix dimensions from sizeof instead of hardcoding them
